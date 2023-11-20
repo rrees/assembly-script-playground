@@ -15,3 +15,6 @@ reverse: build
 
 squares: build
 	node tests/sumSquares.js
+
+leap: build
+	node tests/leap.js
