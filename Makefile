@@ -21,3 +21,6 @@ leap: build
 
 triangle: build
 	node tests/triangle.js
+
+darts: build
+	node tests/darts.js

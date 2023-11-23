@@ -8,6 +8,8 @@ export { isLeap } from './leap';
 
 export { isEquilateral, triangleInequality } from './triangle';
 
+export { score } from './darts';
+
 export function add(a: i32, b: i32): i32 {
   return a + b;
 }
