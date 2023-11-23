@@ -18,3 +18,6 @@ squares: build
 
 leap: build
 	node tests/leap.js
+
+triangle: build
+	node tests/triangle.js
